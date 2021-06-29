@@ -28,7 +28,7 @@ associations and gene candidates for grain starch content in sorghum**. *Genes* 
 **Sirjan Sapkota**, R. Boyles, E. Cooper, Z. Brenton, M. Myers, S. Kresovich. **Impact of sorghum racial structure
 and diversity on genomic prediction of grain yield components**. *Crop Science* 60(1), 132-148. [doi.org/10.1002/csc2.20060.](https://doi.org/10.1002/csc2.20060) 
 
-###2019 
+### 2019 
 
 M. K. Tello-Ruiz, C. F. Marco, F.-M. Hsu, R. S. Khangura, P. Qiao, **S. Sapkota**, M. C. Stitzer, R. Wasikowski, H.
 Wu, J. Zhan, K. Chougule, L. C. Barone, C. Ghiban, D. Muna, A. C. Olson, L. C. Wang, D. Ware, and D. A. Micklos.
