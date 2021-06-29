@@ -1,5 +1,10 @@
+---
+layout: page
+title: Resume
+permalink: /resume/
+---
 
-# Resume | Sirjan Sapkota
+# Resume
 105 Collings St., BRC 100, Clemson SC 29634
 Email: ssapkot@g.clemson.edu | sirjan.sapkota@yahoo.com
 Phone: 864-656-9960
